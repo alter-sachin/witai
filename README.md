@@ -43,6 +43,15 @@ i want to go from NY to SF . ny sf both are locations with two rolels source and
 
 
 conversation : predict the next action your bot should perform . 
+Context and user query ...
+
+State machines and triggers : context refers to some node on the state machine , a user query can act as a trigger for bot converse back....
+
+STORIES !!!
+
+
+
+
 Cavaet  : Designing conversational bots 
 Design guidelines :
 https://developers.google.com/actions/design/
@@ -54,5 +63,11 @@ http://www.cog.brown.edu/courses/cg45/lecture%20slides/gricean%20maxims.pdf
 https://developers.google.com/actions/design/checklist
 
 Learn general wit ai recipes and then design bot flow.
+
+
+
+
+
+
 
 
